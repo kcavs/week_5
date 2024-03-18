@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Sleep",
+            "request": "launch",
+            "mainClass": "Sleep",
+            "projectName": "week_5_a6e965a6"
+        },
+        {
+            "type": "java",
             "name": "Launch building",
             "request": "launch",
             "mainClass": "building",
